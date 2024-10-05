@@ -1,5 +1,4 @@
-# Bigo![image](https://github.com/user-attachments/assets/6a4afe0c-3b14-4294-baca-42ee872f7b2f)
-t Engine
+# Bigot Engine
 
 <p align="center">
   <a href="https://Bigotengine.org">
