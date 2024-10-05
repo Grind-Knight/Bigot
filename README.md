@@ -1,7 +1,7 @@
 # Bigot Engine
 
 <p align="center">
-  <a href="https://Bigotengine.org">
+  <a href="https://discord.gg/2hWTJdGFyw">
     <img src="logo_outlined.svg" width="400" alt="Bigot Engine logo">
   </a>
 </p>
