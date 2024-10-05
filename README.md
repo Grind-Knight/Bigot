@@ -6,6 +6,8 @@
   </a>
 </p>
 
+# Bigot (pronounced big-o) is a game engine that isn't gay.
+
 ## 2D and 3D cross-platform game engine
 
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
